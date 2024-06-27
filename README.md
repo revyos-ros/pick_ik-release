@@ -1,3 +1,26 @@
+## pick_ik (jazzy) - 1.1.0-5
+
+The packages in the `pick_ik` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy pick_ik --override-release-repository-push-url git@github.com:revyos-ros/pick_ik-release` on `Thu, 27 Jun 2024 05:28:01 -0000`
+
+The `pick_ik` package was released.
+
+Version of package(s) in repository `pick_ik`:
+
+- upstream repository: https://github.com/PickNikRobotics/pick_ik.git
+- release repository: https://github.com/revyos-ros/pick_ik-release.git
+- rosdistro version: `1.1.0-4`
+- old version: `1.1.0-4`
+- new version: `1.1.0-5`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pick_ik (iron) - 1.1.0-2
 
 The packages in the `pick_ik` repository were released into the `iron` distro by running `/usr/bin/bloom-release pick_ik --rosdistro iron` on `Sun, 17 Dec 2023 15:27:03 -0000`
