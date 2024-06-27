@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/pick_ik-release
 tracks:
   humble:
     actions:
