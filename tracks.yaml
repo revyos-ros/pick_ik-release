@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/pick_ik-release
+release_repo_url: git@github.com:revyos-ros/pick_ik-release.git
 tracks:
   humble:
     actions:
